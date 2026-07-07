@@ -23,6 +23,7 @@
 - [BscCheck](https://www.bscheck.eu)
 - [quickintel](https://app.quickintel.io/scanner)
 - [HAPI Labs](https://terminal.hapilabs.one/guest-address-check/)
+- [Cabal-Hunter](https://api.cabal-hunter.com/) (Solana; fuses cabal-cluster tracing + same-block bundles + coordinated dumps + serial-rug deployer history + honeypot into one agent-callable Exit-Liquidity verdict — MCP + REST)
 
 [CertiK Skynet](https://skynet.certik.com/) stands out by covering an exceptionally broad range of information (for a limited set of tokens).
 
